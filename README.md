@@ -1,55 +1,29 @@
+<div align="center">
+
 # Hi, I'm Aby 👋
 
-### 💻 Programmer | 📚 Lifelong Learner | 🚀 Dreamer
+Full Stack Web Developer with experience in building modern web applications.  
+Proficient in **JavaScript, Python**, with frameworks like **React, Next.js, and Tailwind CSS**. 
+Currently exploring **Artificial Intelligence, Machine Learning, and Data Science** 🚀.  
 
-I love **programming, typing, and reading**.  
-Currently exploring the world of **Web Development** and diving deeper into **Artificial Intelligence & Machine Learning**.  
+[![trophy](https://github-profile-trophy.vercel.app/?username=abydanu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
----
-
-### 👨‍💻 About Me
-- 🔭 Working with **JavaScript, PHP, Python, and Java**
-- ⚡ Familiar with **React, Next.js, Tailwind CSS, Laravel**
-- 📊 Learning more about **Data Science & Machine Learning**
-- 🤝 Open to collaboration on interesting projects
-- 🎯 Passionate about **continuous learning and growth**
-
----
-
-📊 **Profile Views**  
 ![Views](https://komarev.com/ghpvc/?username=abydanu&color=blueviolet)
 
----
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abydanu&layout=compact&theme=dark)
 
-### 🏆 Achievements
-- 🚀 Built multiple full-stack projects
-- 🤝 Contributed to open-source repos
-- 🎓 Preparing for AI competitions
-- ✨ Always curious and learning something new
+![Aby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abydanu&show_icons=true&theme=dark)  
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=abydanu&theme=dark&hide_border=true)
 
-### 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abydanu&layout=compact&theme=tokyonight)
 
----
+### 🌐 Connect with me  
+<p align="center">
+    <a href="http://www.linkedin.com/in/aby-danu"><img src="https://emojis.slackmojis.com/emojis/images/1643514111/711/linkedin.png?1643514111" width="28" /></a>
+    <a href="https://www.instagram.com/abyydanu"><img src="https://emojis.slackmojis.com/emojis/images/1643514104/632/instagram.png?1643514104" width="28" /></a>
+</p>
 
-### 📈 GitHub Stats
-![Aby's GitHub Stats](https://github-readme-stats.vercel.app/api?username=abydanu&show_icons=true&theme=tokyonight)  
-![GitHub Streak](https://streak-stats.demolab.com?user=abydanu&theme=tokyonight&hide_border=true)
 
----
+![snake gif](https://raw.githubusercontent.com/abydanu/abydanu/output/github-contribution-grid-snake-dark.svg)
 
-### 🐍 Watch my commits get eaten!
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-
----
-
-### 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/abydanu)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/abydanu)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://instagram.com/abydanu)
-
----
-
-✨ _“Code, Learn, Repeat — that’s how I grow.”_ ✨
+</div>
