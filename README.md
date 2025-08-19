@@ -17,7 +17,7 @@ Currently exploring **Artificial Intelligence, Machine Learning, and Data Scienc
 ![GitHub Streak](https://streak-stats.demolab.com?user=abydanu&theme=dark&hide_border=true)
 
 
-### 🌐 Connect with me  
+### Connect with me 
 <p align="center">
     <a href="http://www.linkedin.com/in/aby-danu"><img src="https://emojis.slackmojis.com/emojis/images/1643514111/711/linkedin.png?1643514111" width="28" /></a>
     <a href="https://www.instagram.com/abyydanu"><img src="https://emojis.slackmojis.com/emojis/images/1643514104/632/instagram.png?1643514104" width="28" /></a>
