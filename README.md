@@ -6,8 +6,6 @@ Full Stack Web Developer with experience in building modern web applications.
 Proficient in **JavaScript, Python**, with frameworks like **React, Next.js, and Tailwind CSS**. 
 Currently exploring **Artificial Intelligence, Machine Learning, and Data Science** 🚀.  
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abydanu&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 ![Views](https://komarev.com/ghpvc/?username=abydanu&color=blueviolet)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abydanu&layout=compact&theme=dark)
